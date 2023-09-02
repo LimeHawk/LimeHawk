@@ -21,7 +21,7 @@ Meu nome é Kaike, tenho 19 anos e moro atualmente em Feira de Santana - Bahia B
 ### How to reach me :
 
 #### Email : [kaikelfalcao@gmail.com](kaikelfalcao@gmail.com)
-#### LinkedIn : [@kaikefalcao]([https://www.linkedin.com/](https://www.linkedin.com/in/kaikefalcao/))
+#### LinkedIn : [kaikefalcao](https://www.linkedin.com/in/kaikefalcao/)
 
 ## PT-BR
 - Atualmente, estou aprendendo PHP/Laravel e tenho conhecimento em Java/Spring, Ruby on Rails, HTML, CSS, Angular, PostGres, MySQL, ScyllaDB, MongoDB.
@@ -33,4 +33,4 @@ Meu nome é Kaike, tenho 19 anos e moro atualmente em Feira de Santana - Bahia B
 
 ### Entre em contato:
 #### Email : [kaikelfalcao@gmail.com](kaikelfalcao@gmail.com)
-#### LinkedIn : [@kaikefalcao]([https://www.linkedin.com/](https://www.linkedin.com/in/kaikefalcao/))
+#### LinkedIn : [kaikefalcao](https://www.linkedin.com/in/kaikefalcao/)
