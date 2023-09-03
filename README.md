@@ -11,7 +11,7 @@ Meu nome é Kaike, tenho 19 anos e moro atualmente em Feira de Santana - Bahia B
 
 ## EN
 
-- I’m currently learning PHP/Laravel and I have knowledge in Java/Spring, Ruby/On Rails, HTML, CSS, Angular, PostGres, MYSQL, ScyllaDB, MongoDB
+- I’m currently learning PHP/Laravel and I have knowledge in Java,Spring, Ruby,On Rails, HTML, CSS, Angular, PostGres, MYSQL, MongoDB
 - Proficient in designing and building server-side applications for web platforms.
 - Experienced in database management.
 - Familiar with cloud technologies such as AWS.
@@ -24,7 +24,7 @@ Meu nome é Kaike, tenho 19 anos e moro atualmente em Feira de Santana - Bahia B
 #### LinkedIn : [kaikelfalcao](https://www.linkedin.com/in/kaikefalcao/)
 
 ## PT-BR
-- Atualmente, estou aprendendo PHP/Laravel e tenho conhecimento em Java/Spring, Ruby on Rails, HTML, CSS, Angular, PostGres, MySQL, ScyllaDB, MongoDB.
+- Atualmente, estou aprendendo PHP/Laravel e tenho conhecimento em Java/Spring, Ruby, on Rails, HTML, CSS, Angular, PostGres, MySQL, MongoDB.
 - Proficiente em projetar e construir aplicativos do lado do servidor para plataformas web.
 - Experiência em gerenciamento de bancos de dados.
 - Familiarizado com tecnologias de nuvem, como AWS.
