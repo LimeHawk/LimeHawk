@@ -1,36 +1,17 @@
-# Hi there | Olá 👋
-You can call me Kaike, i'm 19yo, I live in Feira de Santana - Bahia Brazil
-<br><br>
-Meu nome é Kaike, tenho 19 anos e moro atualmente em Feira de Santana - Bahia Brasil
+# 👋 Hi there 
+I'm Kaike Falcão, a software developer with 19 years old. I currently work as a Junior developer and I'm always studying and improving my technical and communication skills.
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=LimeHawk&color=blueviolet)
 
-# Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## Tech Stack:
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 
-## EN
+## How to reach me :
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](kaikelfalcao@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaikefalcao/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kaikelfalcao/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/kaikelime)
 
-- I’m currently learning PHP/Laravel and I have knowledge in Java,Spring, Ruby,On Rails, HTML, CSS, Angular, PostGres, MYSQL, MongoDB
-- Proficient in designing and building server-side applications for web platforms.
-- Experienced in database management.
-- Familiar with cloud technologies such as AWS.
-- Strong ability to work collaboratively within development teams.
-- Effective communication of complex technical concepts to non-technical stakeholders.
 
-### How to reach me :
+### Daily Quote
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
-#### Email : [kaikelfalcao@gmail.com](kaikelfalcao@gmail.com)
-#### LinkedIn : [kaikelfalcao](https://www.linkedin.com/in/kaikefalcao/)
 
-## PT-BR
-- Atualmente, estou aprendendo PHP/Laravel e tenho conhecimento em Java/Spring, Ruby, on Rails, HTML, CSS, Angular, PostGres, MySQL, MongoDB.
-- Proficiente em projetar e construir aplicativos do lado do servidor para plataformas web.
-- Experiência em gerenciamento de bancos de dados.
-- Familiarizado com tecnologias de nuvem, como AWS.
-- Habilidade forte para trabalhar de forma colaborativa dentro de equipes de desenvolvimento.
-- Comunicação eficaz de conceitos técnicos complexos para partes interessadas não técnicas.
-
-### Entre em contato:
-#### Email : [kaikelfalcao@gmail.com](kaikelfalcao@gmail.com)
-#### LinkedIn : [kaikelfalcao](https://www.linkedin.com/in/kaikefalcao/)
