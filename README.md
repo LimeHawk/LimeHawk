@@ -2,7 +2,7 @@
 
 # 👋 Hi there
 
-I'm Kaíke Falcão, a passionate software developer and tech enthusiast with a keen interest in exploring different programming languages and technologies. Currently, I work as a Full Stack Software Developer at [Conexa](https://conexa.app/).
+I'm Kaíke Falcão, a passionate software developer and tech enthusiast with a keen interest in exploring different programming languages and technologies. Currently, I work as a Full Stack Software Developer at <a href="https://conexa.app/" style="text-decoration: none; color: #E9570B;">Conexa</a>.
 
 Detailed Information:<br>
 Age: 20<br>
@@ -15,9 +15,9 @@ Studying and building personal projects with: Javascript, Elixir, React.js
 # Socials
 <div align="center">
 
-[![](https://img.shields.io/badge/-linkedin-8B008B?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/kaikefalcao/)
-[![](https://img.shields.io/badge/-instagram-8B008B?style=for-the-badge&logoColor=0f0f0f&logo=instagram)](https://www.instagram.com/kaikelfalcao/)
-[![](https://img.shields.io/badge/-x/twitter-8B008B?style=for-the-badge&logoColor=0f0f0f&logo=x)](https://twitter.com/kaikelfalcao/)
+[![](https://img.shields.io/badge/-linkedin-8B008B?style=for-the-badge&logoColor=ffffff&logo=linkedin)](https://www.linkedin.com/in/kaikefalcao/)
+[![](https://img.shields.io/badge/-instagram-8B008B?style=for-the-badge&logoColor=ffffff&logo=instagram)](https://www.instagram.com/kaikelfalcao/)
+[![](https://img.shields.io/badge/-x/twitter-8B008B?style=for-the-badge&logoColor=ffffff&logo=x)](https://twitter.com/kaikelfalcao/)
 
 
 </div>
@@ -31,6 +31,7 @@ Studying and building personal projects with: Javascript, Elixir, React.js
 ![](https://img.shields.io/badge/Code-JavaScript-8B008B?style=flat-square&logoColor=ffffff&logo=javascript)
 ![](https://img.shields.io/badge/Code-HTML-8B008B?style=flat-square&logoColor=ffffff&logo=html5)
 ![](https://img.shields.io/badge/Code-CSS-8B008B?style=flat-square&logoColor=ffffff&logo=css3)
+![](https://img.shields.io/badge/Code-Laravel-8B008B?style=flat-square&logoColor=ffffff&logo=laravel)
 ![](https://img.shields.io/badge/Code-Vue.js-8B008B?style=flat-square&logoColor=ffffff&logo=vuedotjs)
 ![](https://img.shields.io/badge/Code-Tailwind-8B008B?style=flat-square&logoColor=ffffff&logo=tailwind-css)
 ![](https://img.shields.io/badge/Platform-Docker-8B008B?style=flat-square&logoColor=ffffff&logo=docker)
