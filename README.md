@@ -15,10 +15,10 @@ Studying and building personal projects with: Javascript, Elixir, React.js
 # Socials
 <div align="center">
 
-[![](https://img.shields.io/badge/-linkedin-8B008B?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/stefanobartoletti/)
-[![](https://img.shields.io/badge/-instagram-8B008B?style=for-the-badge&logoColor=0f0f0f&logo=instagram)](https://www.instagram.com/stefanobartoletti.it/)
-[![](https://img.shields.io/badge/-x/twitter-8B008B?style=for-the-badge&logoColor=0f0f0f&logo=x)](https://twitter.com/ste_bartoletti/)
-[![](https://img.shields.io/badge/-dev-8B008B?style=for-the-badge&logoColor=0f0f0f&logo=devdotto)](https://dev.to/stefanobartoletti/)
+[![](https://img.shields.io/badge/-linkedin-8B008B?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/kaikefalcao/)
+[![](https://img.shields.io/badge/-instagram-8B008B?style=for-the-badge&logoColor=0f0f0f&logo=instagram)](https://www.instagram.com/kaikelfalcao/)
+[![](https://img.shields.io/badge/-x/twitter-8B008B?style=for-the-badge&logoColor=0f0f0f&logo=x)](https://twitter.com/kaikelfalcao/)
+
 
 </div>
 
