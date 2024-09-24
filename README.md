@@ -2,7 +2,7 @@
 
 # 👋 Hi there
 
-I'm Kaíke Falcão, a passionate software developer and tech enthusiast with a keen interest in exploring different programming languages and technologies. Currently, I work as a Full Stack Software Developer at <a href="https://conexa.app/" style="text-decoration: none; color: #E9570B;">Conexa</a>.
+I'm Kaíke Falcão, a passionate software developer and tech enthusiast with a keen interest in exploring different programming languages and technologies. Currently, I work as a Full Stack Software Developer at <a href="https://conexa.app/" >Conexa</a>.
 
 Detailed Information:<br>
 Age: 20<br>
